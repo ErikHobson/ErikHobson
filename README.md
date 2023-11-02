@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ErikHobson
+- 👋 Hi, I’m @ErikHobson . I am a python native with fascination for aritifical intelligence. I love to solve problems and compete. I rock climb and play ultimate in my free time.
 - 👀 I’m interested in Machine Learning, including data regression and classification and would like to learn more about reinforcement learning. I have worked on MPC and dynamic optimization.
 - 🌱 I’m currently learning better regression techniques to handle chemical process data.
 - 💞️ I’m looking to collaborate on intermediate level portfolio building projects.
